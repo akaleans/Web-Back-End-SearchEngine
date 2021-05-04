@@ -9,6 +9,10 @@ Twitter services we have created in the past. All methods are working properly a
 service can be tested easily with a post.sh file included. Execution of the program is
 documented below:
 
+	**NOTE**
+	A.	This project makes use of the gensim library, if you do not already have it, 
+		open a terminal and type "pip3 install --upgrade gensim"
+
 	1.	Extract contents into a folder on your Desktop
 	2.	Open a terminal at the folder location
 	3.	Inside of the created folder directory, type "./bin/init.sh"
